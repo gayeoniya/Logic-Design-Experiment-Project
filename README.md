@@ -21,7 +21,7 @@
 FSM (Finite State Machine): 게임의 각 단계(패턴 제시, 입력 대기, 결과 확인 등)를 제어하는 핵심 엔진입니다.
 Registers: 정답 데이터와 사용자 입력 데이터를 저장하고 비교합니다.
 Control Circuits: 서보모터, LCD, LED 등의 하드웨어 컴포넌트를 제어합니다.
-<img width="561" height="141" alt="image" src="https://github.com/user-attachments/assets/50ab6bc9-c0b9-40cf-938a-7c92f44eaee9" />
+<img width="661" height="241" alt="image" src="https://github.com/user-attachments/assets/50ab6bc9-c0b9-40cf-938a-7c92f44eaee9" />
 
 
 ### 🔄 알고리즘 순서도
@@ -31,4 +31,3 @@ cnt=1 초기화 및 게임 시작.
 입력 데이터와 정답 레지스터 값 비교.
 결과(성공/실패)에 따른 점수 누적 및 LCD 출력.
 모든 단계 완료 시 최종 결과 출력 후 종료.
-<img width="512" height="471" alt="image" src="https://github.com/user-attachments/assets/f9e22fbe-5d5b-45bd-ad51-efd4dd948723" />
