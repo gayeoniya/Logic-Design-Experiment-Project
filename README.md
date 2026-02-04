@@ -4,8 +4,8 @@
 
 ### 📌 프로젝트 개요
 
-개발 기간: 2024년 11월 ~ 12월 
-주요 기술: Verilog HDL, Vivado, FPGA Board 
+- 개발 기간: 2024년 11월 ~ 12월 
+- 주요 기술: Verilog HDL, Vivado, FPGA Board 
 
 
 ### 🕹️ 주요 기능
