@@ -1,4 +1,4 @@
-🎮 FPGA 기반 LED 순서 기억 게임 (Memory Game)
+## 🎮 FPGA 기반 LED 순서 기억 게임 (Memory Game)
 본 프로젝트는 FPGA(Field Programmable Gate Array) 보드를 활용하여 사용자의 기억력을 테스트하는 디지털 시스템 설계 프로젝트입니다. 2학년 과정에서 습득한 논리 회로 이론 및 실습 지식을 바탕으로 레지스터, 비교기, FSM 등을 직접 설계하고 통합하였습니다.
 
 
